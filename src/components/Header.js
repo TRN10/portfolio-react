@@ -15,13 +15,16 @@ export default function Header({ setContent }) {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <Button variant="light" onClick={() => setContent('about')}>About</Button>
+                            <Button variant="light" onClick={() => setContent('about')}>01/ about</Button>
                         </li>
                         <li className="nav-item">
-                            <Button variant="light" onClick={() => setContent('projects')}>Projects</Button>
+                            <Button variant="light" onClick={() => setContent('projects')}>02/ projects</Button>
                         </li>
                         <li className="nav-item">
-                            <Button variant="light" onClick={() => setContent('contact')}>Contact</Button>
+                            <Button variant="light" onClick={() => setContent('contact')}>03/ contact</Button>
+                        </li>
+                        <li className="nav-item">
+                            <Button variant="light" onClick={() => setContent('contact')}>04/ resume</Button>
                         </li>
 
                     </ul>

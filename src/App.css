@@ -10,7 +10,6 @@ body {}
 
 h1 {
   font-family: prometo, sans-serif;
-  font-size: 100px;
 
 }
 
@@ -19,12 +18,16 @@ h1 {
   font-size: 70px;
 }
 
+#hero {
+  filter: blur(20px);
+}
+
 ul {
   font-weight: 100;
 }
 
 
-.carousel-item {}
+
 
 .container {
 
@@ -37,6 +40,12 @@ ul {
   padding-left: 20px;
 
 
+}
+
+.nav-item {
+  font-size: x-large;
+  /* font-weight: 50px; */
+  padding-left: 10px;
 }
 
 footer {
