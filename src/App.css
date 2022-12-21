@@ -10,8 +10,13 @@ body {}
 
 h1 {
   font-family: prometo, sans-serif;
-  font-size: 70px;
+  font-size: 100px;
 
+}
+
+#trentan {
+
+  font-size: 70px;
 }
 
 ul {

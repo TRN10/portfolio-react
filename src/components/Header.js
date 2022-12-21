@@ -6,7 +6,7 @@ export default function Header({ setContent }) {
         <div>        <nav className="navbar navbar-expand-lg bg-white">
             <div className="container-fluid">
 
-                <h1>Trentan Jurkans</h1>
+                <h1><span id='trentan'>Trentan Jurkans</span></h1>
 
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
