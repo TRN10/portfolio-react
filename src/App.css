@@ -1,0 +1,81 @@
+img {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  border-style: none;
+  /* remove extra space below image */
+}
+
+body {}
+
+h1 {
+  font-family: prometo, sans-serif;
+  font-size: 70px;
+
+}
+
+ul {
+  font-weight: 100;
+}
+
+
+.carousel-item {}
+
+.container {
+
+  border-style: none;
+}
+
+#navbarNav {
+  font-size: x-large;
+  font-family: prometo, Arial, Helvetica, sans-serif;
+  padding-left: 20px;
+
+
+}
+
+footer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-family: prometo, sans-serif;
+  padding: 30px;
+
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h5 {
+  font-weight: 300;
+}
+
+.hide {
+  display: none;
+}
+
+.projects {
+  background-image: "./assets/tj-hero-inverted.png";
+}
+
+
+
+
+#about:hover {
+  color: darkorange;
+}
+
+#projects:hover {
+  color: rgb(34, 202, 76);
+}
+
+#contact:hover {
+  color: rgb(155, 30, 155);
+}
+
+/* #hero-one {
+  filter: blur(20px);
+  -webkit-filter: blur(20px);
+} */
