@@ -6,6 +6,16 @@ img {
   /* remove extra space below image */
 }
 
+#footer {
+
+  font-family: prometo, Arial, Helvetica, sans-serif;
+  flex-direction: row;
+}
+
+href {
+  color: white;
+}
+
 body {}
 
 h1 {
@@ -26,12 +36,20 @@ ul {
   font-weight: 100;
 }
 
+.card {
+  font-family: prometo, Arial, Helvetica, sans-serif;
 
+}
 
+#ExampleCard,
+#ExampleCard2,
+#ExampleCard3,
+#ExampleCard4 {
+  margin: 20px;
+}
 
 .container {
-
-  border-style: none;
+  flex: content;
 }
 
 #navbarNav {

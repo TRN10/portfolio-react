@@ -7,6 +7,7 @@ import { useState } from 'react';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Carousel from './components/Carousel';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   const [content, setContent] = useState('about')
@@ -22,7 +23,7 @@ function App() {
       {/* <Carousel /> */}
       {mainContent}
 
-      <Footer />
+      {/* <Footer /> */}
 
     </div>
   );
