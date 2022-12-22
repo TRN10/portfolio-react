@@ -14,10 +14,9 @@ function ImgOverlayExample() {
         <Card className="bg-dark text-white">
             <Card.Img src={Hero3} alt="Card image" />
             <Card.ImgOverlay>
-                <Card.Title>Card title</Card.Title>
+                {/* <Card.Title>Card title</Card.Title> */}
                 <Card.Text>
-                    <h2>This is a wider card with supporting text below as a natural lead-in
-                        to additional content. This content is a little bit longer.</h2>
+
                     <h2 id="email"><a href="mailto: trentanjurkans@gmail.com">email</a></h2>
                     <h2 ><a href="https://github.com/TRN10" target="_blank">Github</a></h2>
                     <h2><a href="https://www.linkedin.com" target="_blank">LinkedIn</a></h2>
