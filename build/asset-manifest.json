@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.ea866fb6.css",
-    "main.js": "/portfolio-react/static/js/main.6cb7b51b.js",
+    "main.css": "/portfolio-react/static/css/main.0b75ca9b.css",
+    "main.js": "/portfolio-react/static/js/main.13638171.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/tj-hero-2.png": "/portfolio-react/static/media/tj-hero-2.bab089cfb13dfaa29b0e.png",
     "static/media/tj-hero-3.png": "/portfolio-react/static/media/tj-hero-3.900ccc24dee6ad0b73b4.png",
     "static/media/tj-hero.png": "/portfolio-react/static/media/tj-hero.b6647ecbc3eda4392194.png",
+    "static/media/techblog.png": "/portfolio-react/static/media/techblog.35e139c7feb0396a950c.png",
+    "static/media/realocator.png": "/portfolio-react/static/media/realocator.9b27bb47f1a284a1dc2d.png",
+    "static/media/weather.png": "/portfolio-react/static/media/weather.7dd888735cb1aa72d94a.png",
+    "static/media/gardenmate.png": "/portfolio-react/static/media/gardenmate.3fa125b159c287fb4864.png",
     "static/media/logo.svg": "/portfolio-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio-react/index.html",
-    "main.ea866fb6.css.map": "/portfolio-react/static/css/main.ea866fb6.css.map",
-    "main.6cb7b51b.js.map": "/portfolio-react/static/js/main.6cb7b51b.js.map",
+    "main.0b75ca9b.css.map": "/portfolio-react/static/css/main.0b75ca9b.css.map",
+    "main.13638171.js.map": "/portfolio-react/static/js/main.13638171.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea866fb6.css",
-    "static/js/main.6cb7b51b.js"
+    "static/css/main.0b75ca9b.css",
+    "static/js/main.13638171.js"
   ]
 }
